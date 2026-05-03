@@ -13,11 +13,14 @@ This repository contains all assignments, lab work, and resources for the **UML5
    ```bash
    pip install numpy pandas matplotlib scikit-learn
 ---
-##👨‍💻 Author
-Harnoor Singh Khalsa
-B.Tech Computer Engineering, TIET
-GitHub: https://github.com/Harnoor001
+## 👨‍💻 Author
 
-##⭐ Support
+**Harnoor Singh Khalsa**  
+B.Tech Computer Engineering, TIET  
+🔗 GitHub: https://github.com/Harnoor001  
+
+## ⭐ Support
+
 If you find this useful, give this repo a ⭐ and feel free to fork!
+
 ---
