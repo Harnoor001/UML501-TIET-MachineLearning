@@ -8,3 +8,6 @@ This repository contains all assignments, lab work, and resources for the **UML5
 1. Clone the repository:
    ```bash
    git clone https://github.com/Harnoor001/UML501-TIET-MachineLearning.git
+2. Open notebooks in:
+   Jupyter Notebook
+   Google Colab
