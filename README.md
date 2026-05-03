@@ -11,3 +11,4 @@ This repository contains all assignments, lab work, and resources for the **UML5
 2. Open notebooks in Google Colab
 3. Install dependencies (if needed):
    ```bash
+   pip install numpy pandas matplotlib scikit-learn
